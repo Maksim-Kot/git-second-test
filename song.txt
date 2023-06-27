@@ -4,5 +4,3 @@ i am a
 doctor
 
 gui
-some facts
--------------------
